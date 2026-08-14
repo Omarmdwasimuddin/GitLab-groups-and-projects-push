@@ -21,3 +21,4 @@ git branch -M main
 git push -u origin main
 ```
 ---
+> browser reload daw project push hoye jabe
